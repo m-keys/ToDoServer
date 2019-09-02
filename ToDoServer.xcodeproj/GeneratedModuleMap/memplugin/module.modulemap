@@ -1,0 +1,4 @@
+module memplugin {
+    umbrella "/Users/aleksandrmakarov/SwiftServer/ToDoServer/.build/checkouts/omr-agentcore/src/memplugin/include"
+    export *
+}
